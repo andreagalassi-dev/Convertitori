@@ -1,0 +1,2 @@
+# Questo convertitore utilizza esclusivamente librerie della libreria standard di Python (os, sys, zipfile, xml.etree.ElementTree).
+# Non è richiesta alcuna dipendenza esterna da pip.

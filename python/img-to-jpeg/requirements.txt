@@ -1,0 +1,5 @@
+# Questo script utilizza solo la libreria standard di Python (os, shutil, subprocess, tempfile).
+# Non sono necessarie librerie pip aggiuntive.
+#
+# Prerequisito di sistema:
+# ImageMagick 7+ installato e accessibile nel PATH di sistema come comando 'magick'.

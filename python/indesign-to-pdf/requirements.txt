@@ -1,0 +1,9 @@
+# Dipendenze base
+requests>=2.28.0
+
+# Unione delle pagine in un unico PDF (opzionale se si usa --no-merge)
+PyPDF2>=3.0.0
+
+# Motore di rendering consigliato per fedeltà alle dimensioni (opzionale se si usa --renderer chrome)
+# Dopo l'installazione eseguire: playwright install chromium
+playwright>=1.40.0
