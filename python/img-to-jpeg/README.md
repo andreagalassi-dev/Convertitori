@@ -21,3 +21,4 @@ python img_to_jpeg.py /percorso/della/cartella_con_immagini
 ```
 
 Il file originale non viene eliminato; il nuovo file JPEG viene salvato con lo stesso nome e percorso, con estensione `.jpg`.
+

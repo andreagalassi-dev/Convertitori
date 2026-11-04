@@ -26,3 +26,4 @@ python text_converter.py
 ```
 
 I file convertiti verranno salvati all'interno della cartella di origine nella sottodirectory `converted_files_txt/`.
+

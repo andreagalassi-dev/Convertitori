@@ -10,3 +10,4 @@ if(WIN32)
 else()
     message(WARNING "heic_to_jpeg è progettato specificamente per sistemi Windows tramite Windows Imaging Component (WIC).")
 endif()
+

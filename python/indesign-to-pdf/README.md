@@ -50,3 +50,4 @@ python indesign_to_pdf.py --pub-id 9fffdfc4-55ed-43b2-93cd-4bcf5f53a412 --render
 | `--max-pages` | Limita il numero massimo di pagine da scaricare (utile per test) | Tutte |
 | `--start-page` | Indice di pagina iniziale da cui partire (0 = prima pagina) | `0` |
 | `--timeout` | Timeout in millisecondi per il caricamento di ciascuna pagina | `15000` |
+

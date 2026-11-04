@@ -3,3 +3,4 @@
 #
 # Prerequisito di sistema:
 # ImageMagick 7+ installato e accessibile nel PATH di sistema come comando 'magick'.
+

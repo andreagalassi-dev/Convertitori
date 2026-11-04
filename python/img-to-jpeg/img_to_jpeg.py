@@ -154,3 +154,4 @@ if __name__ == '__main__':
     print("Avvio conversione in:", folder)
     res = walk_and_convert(folder)
     print("Fatto:", res)
+

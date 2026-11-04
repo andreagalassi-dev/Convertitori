@@ -7,3 +7,4 @@ PyPDF2>=3.0.0
 # Motore di rendering consigliato per fedeltà alle dimensioni (opzionale se si usa --renderer chrome)
 # Dopo l'installazione eseguire: playwright install chromium
 playwright>=1.40.0
+

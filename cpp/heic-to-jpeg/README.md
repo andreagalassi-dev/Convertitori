@@ -40,3 +40,4 @@ heic_to_jpeg.exe <cartella_input> <cartella_output> [--recursive]
   ```cmd
   heic_to_jpeg.exe "C:\Foto\iPhone" "C:\Foto\JPEG" --recursive
   ```
+
